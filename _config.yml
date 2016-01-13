@@ -1,0 +1,28 @@
+name: TFA
+favicon: null
+layout_spectrum: 0.15525744738988578
+typography_spectrum: 0.7924403173383325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.20241823513060808
+  lightness: 0.8193513639271259
+  saturation: 0.060845000902190804
+  rhythmicContrast: 0.8991631546523422
+purpose: []
